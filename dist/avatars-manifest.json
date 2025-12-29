@@ -1,0 +1,7 @@
+{
+  "total": 117565,
+  "chunkSize": 250,
+  "chunkCount": 471,
+  "chunksBaseUrl": "chunks",
+  "usernameIndexUrl": "avatars-username-index.json"
+}
